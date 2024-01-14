@@ -1,0 +1,28 @@
+# 주요링크 모음
+
+- [Microsoft 인증 과정](https://learn.microsoft.com/certifications/)
+- [Microsoft 공식 교육 콘텐츠 (MOC)](https://aka.ms/MOC)
+- [Microsoft Learn 홈페이지](https://learn.microsoft.com/)
+- [Azure 아키텍쳐 센터](https://learn.microsoft.com/azure/architecture/)
+- [Microsoft 교육 과정 한 눈에 보기](https://aka.ms/TrainCertPoster)
+- [Microsoft 기술 문서](https://learn.microsoft.com/docs/)
+
+- [랩 실습 파일](https://github.com/MicrosoftLearning/mslearn-openai)
+- [랩 실습 가이드](https://microsoftlearning.github.io/mslearn-openai/) (브라우저의 번역 기능 활용해 한국어 번역 가능)
+
+- [Azure OpenAI Service 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
+- [Azure OpenAI Service 학습 경로](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Azure OpenAI 데이터 프라이버시](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
+- [AOAI와 Azure AI Search를 활용한 RAG](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
+
+## 고객 사례
+- [Microsoft 고객 사례 홈페이지](https://customers.microsoft.com/)
+
+| 미국  | 유통 | CarMax            | Azure OpenAI  | [소비자 후기 요약](https://customers.microsoft.com/en-us/story/1501304071775762777-carmax-retailer-azure-openai-service) |
+| 미국  | 전문 서비스 | Typeface            | Azure OpenAI  | [브랜드 가이드라인에 따라 마케팅용 콘텐츠 생성](https://customers.microsoft.com/en-us/story/1637196302736110361-typeface-professional-services-azure-openai-service) |
+| 대만  | 교육 | 국립타이완사범대학         | Azure OpenAI  | [K-12 학생 대상 영어 튜터 챗봇](https://customers.microsoft.com/en-us/story/1637196302736110361-typeface-professional-services-azure-openai-service) |
+| 미국  | 통신 | AT&T         | Azure OpenAI  | [사내 레거시 코드 마이그레이션, 인사 관련 업무 자동화](https://customers.microsoft.com/en-us/story/1637511309136244127-att-telecommunications-azure-openai-service) |
+| 네덜란드 | 소비재 | HEINEKEN         | Azure OpenAI  | [사내 문서 검색용 챗봇](https://customers.microsoft.com/en-us/story/1685696409285197342-heineken-consumer-goods-azure-ai) |
+| 한국  | 교육 | 웅진씽크빅         | Azure OpenAI  | [웅진 북클럽 서비스의 도서 추천 및 스마트올 메타버스 서비스의 대화형 캐릭터에 접목](https://customers.microsoft.com/en-us/story/1671082509541993808-woongjin-thinkbig-primary-and-secondary-edu-azure-ko-korea) |
+| 한국  | 여러 산업군 | 국내 여러 회사         | Azure OpenAI  | [영상 19분 25초 쯤 기사를 통해 퍼블릭 하게 공개된 국내 사례 정리 테이블](https://youtu.be/mxlmuk7H1do?si=snuxZvMjDSUvSaxy&t=1165) |
+| 한국  | 여러 산업군 | 국내 스타트업 Azure OpenAI 활용 사례 공유    | Azure OpenAI  | [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) |
