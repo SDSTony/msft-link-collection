@@ -3,7 +3,7 @@
 강의 마지막에 문의 주신 내용 관련 참고 링크:
 - [Cosmic Food with Azure OpenAI and Azure Cosmos DB for MongoDB vCore](https://github.com/Azure-Samples/Cosmic-Food-RAG-app/tree/main)
 - [LangChain with Azure OpenAI and ChatGPT (Python v2 Function)](https://github.com/Azure-Samples/function-python-ai-langchain)
-- 아쉽게도 웨비나 때 다룬 Azure AI Search를 활용한 예제는 못찾았습니다.. ㅠ 첫번째에 있는 Cosmic Food 예제 코드/튜토리얼이 그나마 제일 유사할 것 같습니다. Azure AI Search 대신 Azure Cosmos DB for MongoDB와 vector search를 사용하고 있고, LangChain을 써서 구현한 예제입니다. 
+- 아쉽게도 웨비나 때 다룬 Azure AI Search를 활용한 예제는 못찾았습니다.. ㅠ 첫번째에 있는 Cosmic Food 예제 코드/튜토리얼이 그나마 제일 유사할 것 같습니다. Azure AI Search 대신 Azure Cosmos DB for MongoDB와 vector search를 사용하고 있고, 그 와 동시에 LangChain을 쓰고 있습니다.
 -----
 
 - [Microsoft 파트너 센터 공개된 자료](https://assetsprod.microsoft.com/mpn/en-us/build-apps-with-microsoft-azure-ai-de.pdf)
