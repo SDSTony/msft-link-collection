@@ -1,6 +1,7 @@
 # 링크 모음
 
 - [Microsoft 파트너 센터 공개된 자료](https://assetsprod.microsoft.com/mpn/en-us/build-apps-with-microsoft-azure-ai-de.pdf)
+  - [Microsoft 파트너 프로그램 리소스 페이지](https://partner.microsoft.com/en-us/asset#/)
 
 - [Microsoft 고객 사례](https://customers.microsoft.com/en-us/home)
 
