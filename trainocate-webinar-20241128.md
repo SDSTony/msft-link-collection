@@ -2,6 +2,8 @@
 
 - [Microsoft 파트너 센터 공개된 자료](https://assetsprod.microsoft.com/mpn/en-us/build-apps-with-microsoft-azure-ai-de.pdf)
   - [Microsoft 파트너 프로그램 리소스 페이지](https://partner.microsoft.com/en-us/asset#/)
+ 
+- [Azure OpenAI Service 모델 가용 지역](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#models-by-deployment-type)
 
 - [Microsoft 고객 사례](https://customers.microsoft.com/en-us/home)
 
