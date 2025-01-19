@@ -17,4 +17,11 @@
 - [Azure AI Search 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)
 - [Document Intelligence Studio 사용해보기](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/10-document-intelligence.html)
 
+---------
+
+- [Azure AI Foundry에서 언어 모델을 탐색, 배포 및 채팅](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/02-Explore-model-catalog.md)
+- [Azure AI Foundry에서 Prompt Flow를 사용해 NER 구현](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/03b-Use-prompt-flow-NER.md)
+- [Azure AI Foundry에서 생성형 AI 앱 성능 평가](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/07-Evaluate-prompt-flow.md)
+
+
 # Copilot
