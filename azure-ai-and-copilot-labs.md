@@ -15,7 +15,7 @@
 - [Azure OpenAI 시작하기](https://github.com/MicrosoftLearning/mslearn-openai/blob/main/Instructions/Exercises/01-get-started-azure-openai.md)
 - [RAG 구축하기](https://github.com/MicrosoftLearning/mslearn-openai/blob/main/Instructions/Exercises/06-use-own-data.md)
 - [Azure AI Search 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)
-- [Document Intelligence Studio 사용해보기](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/10-document-intelligence.html)
+- [Document Intelligence Studio 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/10-document-intelligence.md)
 
 ---------
 
