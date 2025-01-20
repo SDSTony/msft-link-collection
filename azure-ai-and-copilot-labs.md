@@ -16,6 +16,7 @@
 - [RAG 구축하기](https://github.com/MicrosoftLearning/mslearn-openai/blob/main/Instructions/Exercises/06-use-own-data.md)
 - [Azure AI Search 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)
 - [Document Intelligence Studio 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/10-document-intelligence.md)
+- [문서 양식에서 데이터 추출](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence/blob/main/Instructions/Exercises/02-custom-document-intelligence.md)
 
 ---------
 
