@@ -12,6 +12,7 @@
 
 ---------
 
+- [Face 서비스 사용하기](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Exercises/04-face-service.md)
 - [Azure OpenAI 시작하기](https://github.com/MicrosoftLearning/mslearn-openai/blob/main/Instructions/Exercises/01-get-started-azure-openai.md)
 - [RAG 구축하기](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/04-Use-own-data.md)
 - [Azure AI Search 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)
