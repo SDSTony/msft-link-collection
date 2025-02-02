@@ -27,3 +27,21 @@
 
 
 # Copilot
+
+- Copilot Studio에서 독립적인 에이전트 만들기
+  - [독립적인 에이전트 생성](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/copilot-creation)
+  - [독립적인 에이전트 테스트 하기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/try-conversation)
+  - [토픽 만들기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/create-topic)
+  - [배포하기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/publish-demo)
+- Copilot Studio actions를 사용해서 M365 Copilot 확장하기
+  - [Prompt action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Prompt-actions/Exercise-create-prompt-action.md)
+  - [Connector action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Connector-actions/Exercise-create-connector-action.md)
+  - [Conversational action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Conversational-actions/Exercise-create-conversational-action.md)
+  - Flow action 사용하기
+- 에이전트를 통해 M365 Copilot 확장하기
+  - Copilot Studio에서 선언적 에이전트 만들어 확장하기
+  - 에이전트 빌더를 통해 선언적 에이전트 만들어 확장하기
+- 프로 코드 방법으로 M365 Copilot 확장하기
+  - [Visual Studio Code를 사용하여 Microsoft 365 Copilot용 선언적 에이전트 빌드](https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365/blob/main/Instructions/Labs/LAB_01/1-introduction.md)
+  - [Visual Studio Code를 사용하여 API 플러그인으로 선언적 에이전트에 작업 추가](https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365/blob/main/Instructions/Labs/LAB_02/1-introduction.md)
+  - [Adaptive Card를 사용하여 선언적 에이전트 UX 커스텀](https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365/blob/main/Instructions/Labs/LAB_03/1-introduction.md)
