@@ -28,6 +28,7 @@
 
 # Copilot
 
+- [M365 Copilot 실습](https://learn.microsoft.com/ko-kr/training/modules/empower-workforce-copilot-hr/2-create-job-description)
 - Copilot Studio에서 독립적인 에이전트 만들기
   - [독립적인 에이전트 생성](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/copilot-creation)
   - [독립적인 에이전트 테스트 하기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/try-conversation)
