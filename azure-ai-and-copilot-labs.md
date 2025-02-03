@@ -16,7 +16,7 @@
 - [RAG 구축하기](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/04-Use-own-data.md)
 - [Azure AI Search 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/11-ai-search.md)
 - [Document Intelligence Studio 사용해보기](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs/10-document-intelligence.md)
-- [문서 양식에서 데이터 추출](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence/blob/main/Instructions/Exercises/02-custom-document-intelligence.md)
+- 문서 양식에서 데이터 추출
   - [데이터셋 다운로드하기](https://github.com/SDSTony/msft-link-collection/raw/refs/heads/main/invoice-dataset.zip) 
 
 ---------
