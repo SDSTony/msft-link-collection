@@ -36,10 +36,11 @@
   - [토픽 만들기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/create-topic)
   - [배포하기](https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-create-online-workshop/publish-demo)
 - Copilot Studio actions를 사용해서 M365 Copilot 확장하기
-  - [Prompt action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Prompt-actions/Exercise-create-prompt-action.md)
-  - [Connector action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Connector-actions/Exercise-create-connector-action.md)
-  - [Conversational action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Conversational-actions/Exercise-create-conversational-action.md)
-  - [Flow action 사용하기](https://learn.microsoft.com/en-us/training/modules/build-flows-chatbot-online-workshop/exercise-build-flow)
+  - ~~[Prompt action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Prompt-actions/Exercise-create-prompt-action.md)~~
+  - ~~[Connector action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Connector-actions/Exercise-create-connector-action.md)~~
+  - ~~[Conversational action 사용하기](https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio/blob/master/Instructions/Labs/Conversational-actions/Exercise-create-conversational-action.md)~~
+  - ~~[Flow action 사용하기](https://learn.microsoft.com/en-us/training/modules/build-flows-chatbot-online-workshop/exercise-build-flow)~~
+  - 위 실습들은 MS-4009 과정 지원 종료로 인해 없어짐
 - 에이전트를 통해 M365 Copilot 확장하기
   - Copilot Studio에서 선언적 에이전트 만들어 확장하기
   - 에이전트 빌더를 통해 선언적 에이전트 만들어 확장하기
